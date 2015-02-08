@@ -1,11 +1,5 @@
-initial file 1 text in master branch - additional changes to file 1
 
-more changes to file 1
-
-adding changes
-
-v 2.0 changes
-
-changes para verificar el ciclo de git commit
 
 another change en la verificacion
+
+borre 5 primeras lineas y adicine esta linea
