@@ -5,3 +5,7 @@ more changes to file 1
 adding changes
 
 v 2.0 changes
+
+changes para verificar el ciclo de git commit
+
+another change en la verificacion
